@@ -12,7 +12,7 @@ public class Task1_1 {
       String replacements = scan.nextLine(); 
 
       String answer =  modify( s,replacements);
-      System.out.println("\nOutout String = " + answer );
+      System.out.println("\n String after replacement = " + answer );
     }
       public static String modify(String s, String replacements){
        
