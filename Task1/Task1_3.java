@@ -25,7 +25,7 @@ public class Task1_3 {
         System.out.println("X and Y are not directly proportional to each other.");
         
     }
-     public  static boolean isDirectlyProportional(int[] x , int[] y ,int n){
+    public  static boolean isDirectlyProportional(int[] x , int[] y ,int n){
       
       float value = (float) x[0]/y[0];
       boolean result = true;
